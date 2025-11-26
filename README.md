@@ -1,7 +1,7 @@
 # djangoNotesAPI
 
 A simple and clean **Notes CRUD REST API** built using Django and Django REST Framework.  
-Users can register, log in, and manage personal notes securely(CRUD).
+Users can register, log in, and manage personal notes securely(CRUD). This project helped me learn DRF fundamentals, Token Authentication, and how to build a complete CRUD API with Django.
 
 ---
 
